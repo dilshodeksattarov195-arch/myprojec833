@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpersetch",
+        "uuid": 6765626,
+        "checksum": "svipcd"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
